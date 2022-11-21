@@ -1,5 +1,5 @@
 # Neural Networks
-##  Creating Deep learning Algorithms to Evaluate Complex Data
+##  Creating Deep Learning Models to Evaluate Complex Data
 
 ![header](images/header.png)
 
