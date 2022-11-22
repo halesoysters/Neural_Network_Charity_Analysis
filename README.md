@@ -7,7 +7,7 @@ This model spanned the distance from creating a basic neural network defined as 
 
 # Results
 
-The project analyzed a dataset (available [here](​​https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_19/charity_data.csv)) with over 34,000 rows and more than 40 columns to create a binary classifier that is capable of predicting with a 75% accuracy if applicants will be successful if funded by a group called AlphabetSoup.  
+The project analyzed a dataset (available [here](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_19/charity_data.csv)) with over 34,000 rows and more than 40 columns to create a binary classifier that is capable of predicting with a 75% accuracy if applicants will be successful if funded by a group called AlphabetSoup.  
 
 ## Preprocessesing 
 
